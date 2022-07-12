@@ -1,4 +1,4 @@
-### Hi there 👋
+### 반갑습니다. 👋
 
 <!--
 **Hyongyi/Hyongyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 ![Hyoungyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyongyi&show_icons=true&theme=dracula)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyongyi&layout=demo&theme=dracula)
