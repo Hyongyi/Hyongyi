@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 <h3>No Sweat, No Sweet</h3>
 <h3>Doing my best to become who i want to be</h3>
  <h5><i>I just hope i could be better than today</i></h5>
-
+ 
+<br/>
  
  <h4>🛠Tech Stack🛠</h4>
  <br/>
@@ -41,14 +42,14 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
  </div>
  
- <br/><br/>
+ <br/>
  
  <h3 align="center">📧 Wanna contact? 📧</h3>
 <p align="center">
   <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gyddl123@gmail.com"/></a>
 </p>
  
-<br/><br/>
+<br/>
 
  <h3 align="center">🖥️Github Status</h3>
  
