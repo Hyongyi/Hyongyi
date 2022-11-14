@@ -47,7 +47,7 @@ Here are some ideas to get you started:
  <h3 align="center">📧 Wanna contact? 📧</h3>
 <p align="center">
   <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gyddl123@gmail.com"/></a> <br/>
- <a href="https://woolly-tumbleweed-ba0.notion.site/Austin-2ea9f2d41e364ed287d4b369492b7568">My Resume</a> <br/>
+ <a href="https://woolly-tumbleweed-ba0.notion.site/Austin-2ea9f2d41e364ed287d4b369492b7568"><img src="https://img.shields.io/badge/-0769AD?style=flat&logo=&logoColor=white"/>My Resume</a> <br/>
  <a href="https://woolly-tumbleweed-ba0.notion.site/portfolio-82e3fa83a20e40cd824b42d600384f45">My Portpolio</a>
 
 </p>
