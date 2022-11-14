@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  
 <h3>No Sweat, No Sweet</h3>
 <h3>Doing my best to become who i want to be</h3>
- <h5><i>I just hope i could be better than today</i></h5>
+ <h5><i>Effort make me better than yesterday</i></h5>
  
 <br/>
  
@@ -47,6 +47,8 @@ Here are some ideas to get you started:
  <h3 align="center">📧 Wanna contact? 📧</h3>
 <p align="center">
   <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gyddl123@gmail.com"/></a>
+ My Resume : https://woolly-tumbleweed-ba0.notion.site/Austin-2ea9f2d41e364ed287d4b369492b7568
+ My Portpolio : https://woolly-tumbleweed-ba0.notion.site/portfolio-82e3fa83a20e40cd824b42d600384f45
 </p>
  
 <br/>
