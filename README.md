@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  
 <br/>
  
- <h4>🛠Tech Stack🛠</h4>
+ <h4> 🛠Tech Stack🛠 </h4>
  <br/>
 <div>
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
