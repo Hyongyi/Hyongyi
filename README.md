@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  
 <h3>No Sweat, No Sweet</h3>
 <h3>미래의 모습을 그리며 한 발자국씩 앞으로</h3>
- <h5><i>Effort make me better than yesterday</i></h5>
+ <h5><i> Effort make me better than yesterday </i></h5>
  
 <br/>
  
